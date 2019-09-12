@@ -1,0 +1,9 @@
+[submodule "hardware/espressif/esp32"]
+	path = hardware/espressif/esp32
+	url = https://github.com/espressif/arduino-esp32
+[submodule "libraries/Adafruit_MCP9808_Library"]
+	path = libraries/Adafruit_MCP9808_Library
+	url = https://github.com/adafruit/Adafruit_MCP9808_Library
+[submodule "libraries/NTPClient"]
+	path = libraries/NTPClient
+	url = https://github.com/taranais/NTPClient
